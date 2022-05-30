@@ -1,7 +1,6 @@
 package com.cg.entities;
 
 import java.io.Serializable;
-
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
@@ -27,6 +26,4 @@ public class Student implements Serializable
 		this.name = name;
 	}
 	
-	
-
 }

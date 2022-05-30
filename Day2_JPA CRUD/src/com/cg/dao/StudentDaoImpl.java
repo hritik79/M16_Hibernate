@@ -1,7 +1,6 @@
 package com.cg.dao;
 
 import javax.persistence.EntityManager;
-
 import com.cg.entities.Student;
 
 public class StudentDaoImpl implements StudentDao
