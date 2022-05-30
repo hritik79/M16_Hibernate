@@ -1,6 +1,6 @@
 package com.tns.Inheritance;
 
-import java.io.Serializable;
+import java.io.Serializable; 
 
 import javax.persistence.DiscriminatorColumn;
 import javax.persistence.DiscriminatorType;
